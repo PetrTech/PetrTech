@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @PetrTech
+- 👀 I’m interested in Making Games
+- 🌱 I’m currently learning LuaU
