@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @PetrTech
-- 👀 I’m interested in Making Games
-- 🌱 I’m currently learning LuaU
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
