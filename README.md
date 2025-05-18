@@ -2,7 +2,15 @@
 
 ---
 
-I am a C# and Lua developer. Contact me for work stuff @ petrtech@proton.me
+Hi! I'm Petr.\
+I'm not very active on here, as I don't program much nowadays and most of my repositories are private.\
+I have the most experience with programming in C# and Luau, but I could definitely navigate around other languages such as Rust, C++, and JavaScript.
+
+# CONTACTS & SOCIALS
+Email: petrtech@proton.me\
+X (formerly Twitter): https://x.com/PetrTech_Dev \
+Discord (personal space): @petrtech\
+**I am not guaranteeing any response, especially on X.**
 
 # STATS
 ![PetrTech's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetrTech&theme=algolia&show_icons=true)
